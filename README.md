@@ -1,3 +1,3 @@
 # hello-world
 just have a try
-print('hello world')
+print('Hello World')
